@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    --tw-bg-opacity: 1;
+    background-image:url("https://img.freepik.com/free-photo/flat-lay-notebook-with-list-desk_23-2148938724.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721433600&semt=ais_user");
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
